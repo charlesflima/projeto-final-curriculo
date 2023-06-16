@@ -1,6 +1,6 @@
 
-Parse.initialize("YOUR_PARSE_APPLICATION_ID", "YOUR_PARSE_JAVASCRIPT_KEY");
-Parse.serverURL = "https://parseapi.back4app.com/";
+Parse.initialize("eO9vZIF03jrHrHDfHoKWZ0giUhiKIXWIYXqzUljn", "IZD2dfeTcOkZyPskMNCMqi0NUp5laTpjZ3icN73t");
+Parse.serverURL = "https://parseapi.back4app.com";
 
 const Resume = Parse.Object.extend("Resume");
 const resumeQuery = new Parse.Query(Resume);
