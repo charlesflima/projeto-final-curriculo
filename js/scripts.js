@@ -1,11 +1,3 @@
-/*!
-* Start Bootstrap - Resume v7.0.6 (https://startbootstrap.com/theme/resume)
-* Copyright 2013-2023 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
-*/
-//
-// Scripts
-// 
 
 Parse.initialize("YOUR_PARSE_APPLICATION_ID", "YOUR_PARSE_JAVASCRIPT_KEY");
 Parse.serverURL = "https://parseapi.back4app.com/";
